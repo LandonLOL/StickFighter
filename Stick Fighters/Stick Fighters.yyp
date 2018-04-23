@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "1581e632-7a78-4bf4-bd70-93c4fb68de85",
+            "Value": {
+                "id": "81a7ee12-0a81-46b1-95b2-decec960637f",
+                "resourcePath": "sounds\\snd_background\\snd_background.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "1cbd0ef2-d825-4ce0-93d9-9a657683b7ec",
+            "Value": {
+                "id": "4908fcd9-7fdb-43ee-9130-6acf68ad7069",
+                "resourcePath": "objects\\objMusic\\objMusic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1e685120-d6b6-49fd-931b-d9a31cc18fbc",
             "Value": {
                 "id": "8b50abe4-0e4e-4dca-94ae-b33505897e0f",
