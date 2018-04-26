@@ -29,7 +29,6 @@ if b_safe = true
 and
 qt_timer = 60
 then
-
 {
 //timer_end = 5;
 show_message("You Lose")
