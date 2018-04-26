@@ -1,0 +1,1 @@
+draw_text_color(20, 10, (qt_timer), c_black, c_black, c_black, c_black, 1);
